@@ -19,7 +19,7 @@ See Font Awesome for more: http://fortawesome.github.io/Font-Awesome/get-started
 class superAwesome {
 
   public function __construct() {
-      add_action( 'init', array( &$this, 'init' ) );
+    add_action( 'init', array( &$this, 'init' ) );
   }
 
   public function init() {
