@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Fontpress Awesome
-Plugin URI: http://patrickshampine.com
+Plugin Name: wpps-awesomepress
+Plugin URI: https://github.com/patrickshampine/awesomepress
 Description: Embed Font Awesome (http://fontawesome.io) from the Bootstrap CDN, maybe allow shortcode usage in WSYIAWESOME?
 Version: 0.1
 Author: Patrick Shampine
