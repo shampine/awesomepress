@@ -17,7 +17,7 @@ See Font Awesome for more: http://fortawesome.github.io/Font-Awesome/get-started
 
 
 function register_font_awesome() {
-	wp_enqueue_style('font-awesome', 'http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css', false, null, false);
+  wp_enqueue_style('font-awesome', 'http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css', false, null, false);
 }
 add_action('get_header','register_font_awesome');
 
