@@ -13,5 +13,6 @@ Download as a zip, install via wordpress admin. Or submodule.
 
 ### Warning
 
-If using with WordPress do not name the folder 'awesomepress' - there is an existing plugin with the
-same name that will try to update this plugin.
+When using with WordPress do not name the folder 'awesomepress' - there is an existing plugin with the
+same name that will try to update this plugin. I suggest using the downloaded name "awesomepress-master"
+from GitHub.
