@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: AwesomePress
+Plugin Name: awesomepress-gh
 Plugin URI: https://github.com/patrickshampine/awesomepress
 Description: Embed Font Awesome (http://fontawesome.io) from the Bootstrap CDN, maybe allow shortcode usage in WSYIAWESOME?
 Version: 0.1
