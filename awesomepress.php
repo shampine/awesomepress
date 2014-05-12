@@ -28,7 +28,7 @@ class superAwesome {
   }
 
   public function register_font_awesome() {
-    wp_enqueue_style('font-awesome', 'http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css', false, null, false);
+    wp_enqueue_style('font-awesome', 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css', false, null, false);
   }
 
   public function awesome_codes($atts) {
